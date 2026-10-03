@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-7af36872e1.nkvcitw.cn/sitemap.xml
